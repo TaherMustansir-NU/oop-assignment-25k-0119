@@ -1,8 +1,8 @@
 # Car Store Management System
 
-**Name:** Taher Mustansir
-**Roll:** 25K-0119
-**Section:** BAI-2C
+**Name:** Taher Mustansir \
+**Roll:** 25K-0119 \
+**Section:** BAI-2C \
 
 ---
 
